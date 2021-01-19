@@ -11,6 +11,7 @@
 
 # Intros:
 
+- Closures
 - Promises
 - Prototypes
 - Classes
