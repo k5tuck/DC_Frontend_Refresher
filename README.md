@@ -1,5 +1,6 @@
 # Reviews for following topics:
 
+- fetch ()
 - callbacks
 - closures
 - addEventListener
